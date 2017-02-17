@@ -1,4 +1,4 @@
-# nodebb-plugin-google-analytics-multiple
+# nodebb-plugin-multiple-analytics
 说明:一个可以配置多个统计的插件。
 
 目前支持两个GA
@@ -15,14 +15,14 @@
 ```
 npm install
 或者
-npm install nodebb-plugin-google-analytics-multiple
+npm install nodebb-plugin-multiple-analytics
 ```
 卸载该插件:
 ```
-npm unistall nodebb-plugin-google-analytics-multiple
+npm unistall nodebb-plugin-multiple-analytics
 ```
 如遇问题，可以暂时先停掉该插件:
 ```
 在网站根目录下执行
-./nodebb reset -p nodebb-plugin-google-analytics-multiple
+./nodebb reset -p nodebb-plugin-multiple-analytics
 ```
