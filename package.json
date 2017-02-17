@@ -1,0 +1,25 @@
+{
+  "name": "nodebb-plugin-google-analytics-ccmt",
+  "version": "1.0.0",
+  "description": "支持两个GA追踪ID同时对一个论坛进行统计。",
+  "main": "library.js",
+  "repository": {
+    "type": "git",
+    "url": "https://github.com/ccmtlittlestone/nodebb-plugin-google-analytics.git"
+  },
+  "keywords": [
+    "nodebb",
+    "plugin",
+    "google",
+    "analyticss"
+  ],
+  "author": {},
+  "license": "MIT",
+  "bugs": {
+    "url": "https://github.com/ccmtlittlestone/nodebb-plugin-google-analytics.git"
+  },
+  "readmeFilename": "README.md",
+  "nbbpm": {
+    "compatibility": "^1.0.0"
+  }
+}
